@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+<body style="background-color:black;">
+
+<h1 style="font-size:85px;text-align:center;color:yellow;font-family:tahoma">TRANSPORTATION</h1>
+
+<h2 style="font-size:50px;color:yellow"><i>1) cars</i></h2>
+   <img src="https://th.bing.com/th/id/R.843c0c0aa135255e0b322285c827a8f1?rik=25DVgv8QapeXCA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f256924-car-classic_car-American_cars.jpg&ehk=4uiptrSVSDdgZ6ccLCXNs8d2ezh6w2mFt9z%2bwclCDDE%3d&risl=&pid=ImgRaw&r=0" width="600px" lenght="600px">
+
+<p style="font-size:20px;text-align:center;font-family:comic sans ms;color:yellow"><i>Cars have long been a cornerstone of personal mobility, offering unparalleled convenience and independence. However, their widespread use also brings about significant challenges. Here's an overview of cars as a means of transport, highlighting both their advantages and disadvantages.</i></p>
+<a href="https://openai.com">for more info</a>
+<h2 style="font-size:50px;color:yellow"><i>2) bikes</i></h2>
+<img src="https://mcn-images.bauersecure.com/wp-images/199276/triumph-speed-400-01.jpg" width="600px" lenght="600px">
+
+
+
+</body>
+</html>
